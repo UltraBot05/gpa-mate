@@ -17,7 +17,7 @@ Built with love, for students, by students. ❤️
 - Material UI Design Principles
 
 
->>> ⚖️ This project uses the PESU-CGPA-App Community License v1.0.
+> ⚖️ This project uses the PESU-CGPA-App Community License v1.0.
 Please read the LICENSE file before using, contributing, or redistributing.
 
 ---
