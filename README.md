@@ -1,25 +1,69 @@
-# PESU Grade Tracker 🎓
+# 📚 PESU-CGPA-Tracker
 
-A lightweight, privacy-first GPA/CGPA simulator and academic companion app for PES University students (EC + RR Campuses).  
-Built with love, for students, by students. ❤️
-
-## Features:
-- Calculate and visualize SGPA/CGPA easily
-- Plan your target CGPA with a simulator
-- Track failed/resit courses
-- Get notified when you hit minimum graduation credits 🎉
-- 100% Local storage, no server data leaks
-- Designed to easily integrate with official systems in future (with permission)
-
-## Tech Stack:
-- Flutter (App and Web)
-- LocalStorage/SQLite
-- Material UI Design Principles
-
-
-> ⚖️ This project uses the PESU-CGPA-App Community License v1.0.
-Please read the LICENSE file before using, contributing, or redistributing.
+An open-source CGPA and SGPA management app for PES University Students!  
+Built for tracking grades, simulating targets, setting goals, and empowering students with better academic planning. 🎓✨
 
 ---
 
-*Made with ❤️ by Abhigyan Dutta*
+## 🚀 Features (MVP)
+
+- 📈 Enter and manage semester-wise grades easily
+- 🎯 Set Target CGPA and simulate required future SGPA
+- 📚 Senior Notes/Slides Shortcut Hub
+- 🧮 Calculate CGPA & SGPA dynamically
+- 📊 Visualize CGPA trends over semesters
+- ⚙️ Full local data storage (no spying)
+- 🛡️ Custom PESU-CGPA-App Community License
+
+---
+
+## 📸 Screenshots
+
+_(Coming Soon!)_
+
+---
+
+## 🛠️ Tech Stack
+
+- Flutter (for Mobile App)
+- Dart (Programming Language)
+- (Later) Firebase (optional lightweight backup)
+
+---
+
+## 🏗️ Project Roadmap
+
+- [x] Define MVP features ✅
+- [ ] Build UI Wireframes
+- [ ] Develop Grade Manager Module
+- [ ] Develop Target Simulator Module
+- [ ] Polish Dashboard & Settings
+- [ ] Beta Testing
+- [ ] Public Release 🚀
+
+---
+
+## 🤝 Contribution
+
+We ❤️ contributions!
+
+> **Important:**  
+> Please read the LICENSE file carefully before making PRs or forks.  
+> Contributions must maintain the spirit of the community license.
+
+---
+
+## ⚖️ License
+
+This project is licensed under the **PESU-CGPA-App Community License v1.0**.  
+Check the [LICENSE](./LICENSE) file for full terms.
+
+---
+
+## 🌟 Special Thanks
+
+- Batchmates and friends for feedback
+- Open-source community inspirations
+
+---
+
