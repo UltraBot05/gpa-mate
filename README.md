@@ -22,4 +22,4 @@ Please read the LICENSE file before using, contributing, or redistributing.
 
 ---
 
-*Made with ❤️ by [Abhigyan Dutta]*
+*Made with ❤️ by Abhigyan Dutta*
