@@ -16,6 +16,10 @@ Built with love, for students, by students. ❤️
 - LocalStorage/SQLite
 - Material UI Design Principles
 
+
+>>> ⚖️ This project uses the PESU-CGPA-App Community License v1.0.
+Please read the LICENSE file before using, contributing, or redistributing.
+
 ---
 
 *Made with ❤️ by [Abhigyan Dutta]*
